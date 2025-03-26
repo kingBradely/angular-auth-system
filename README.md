@@ -21,6 +21,38 @@ A robust authentication system built with Angular, featuring user registration, 
 - Angular Router
 - Jasmine/Karma for Testing
 
+## Environment Setup
+
+### Required Software
+
+1. **Node.js**:
+   - Version: 18.x LTS or higher
+   - Download from: https://nodejs.org
+   - Verify installation: `node --version`
+
+2. **npm (Node Package Manager)**:
+   - Version: 9.x or higher (comes with Node.js)
+   - Verify installation: `npm --version`
+
+3. **Angular CLI**:
+   - Version: 19.2.x
+   - Install globally: `npm install -g @angular/cli`
+   - Verify installation: `ng version`
+
+### Development Tools
+
+1. **Visual Studio Code (Recommended)**:
+   - Download from: https://code.visualstudio.com
+   - Recommended Extensions:
+     - Angular Language Service
+     - Angular Snippets
+     - ESLint
+     - Prettier
+
+2. **Git**:
+   - Download from: 2. **Git**:
+   - Download from: https://git-scm.com/downloads
+   - Verify installation: `git --version`
 ## Project Structure
 
 ```
@@ -145,7 +177,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [your-email@example.com]
+Oussema Hedhlie - ossamahedli@gmail.com
 
-Project Link: [https://github.com/kingBradely/angular-auth-system.git]
+Project Link: https://github.com/kingBradely/angular-auth-system.git
 
